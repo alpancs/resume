@@ -74,6 +74,29 @@
         "Javascript",
         "C++"
       ]
+    },
+    {
+      "name": "Concepts",
+      "keywords": [
+        "Machine Learning",
+        "Scalable Microservice",
+        "CI/CD and continuous training (CT)",
+        "Data Pipeline",
+        "Distributed Computing"
+      ]
+    },
+    {
+      "name": "Stacks",
+      "keywords": [
+        "Google Cloud Platform",
+        "MLflow",
+        "GitLab Pipeline",
+        "Kubernetes",
+        "Airflow",
+        "Spark",
+        "Cassandra",
+        "Kafka"
+      ]
     }
   ],
   "projects": [
