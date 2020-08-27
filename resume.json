@@ -23,79 +23,88 @@
   "work": [
     {
       "company": "Bukalapak",
+      "location": "Jakarta, Indonesia",
       "position": "Senior AI Software Engineer",
+      "startDate": "Jan 2020",
       "endDate": "Present",
       "highlights": [
         "Empowering machine learning model development from research into production by introducing MLOps.",
-        "Providing research environment for machine learning development.",
-        "Productionization machine learning models from research environment."
-      ],
-      "location": "Jakarta, Indonesia",
-      "startDate": "Jan 2018"
+        "Providing research environment for machine learning development."
+      ]
     },
     {
+      "company": "Bukalapak",
+      "location": "Jakarta, Indonesia",
+      "position": "AI Software Engineer",
+      "startDate": "Jan 2018",
+      "endDate": "Dec 2019",
+      "highlights": [
+        "Productionization machine learning models from binary files in research environment into scalable microservices."
+      ]
+    },
+    {
+      "company": "Bukalapak",
+      "location": "Jakarta, Indonesia",
+      "position": "Data Engineer",
+      "startDate": "Jul 2017",
+      "endDate": "Dec 2017",
       "highlights": [
         "Streaming the entire company's database change logs to build a data warehouse that can be used for batch processing analytics.",
         "Building centralized tracking service for all Bukalapak's platform."
-      ],
-      "company": "Bukalapak",
-      "position": "Data Engineer",
-      "location": "Jakarta, Indonesia",
-      "startDate": "Jul 2017",
-      "endDate": "Dec 2017"
+      ]
     },
     {
-      "highlights": [
-        "Contributing in main Bukalapak's repository, including feature request and A/B test implementation."
-      ],
-      "position": "Back End Software Engineer",
+      "company": "Bukalapak",
       "location": "Jakarta, Indonesia",
+      "position": "Back End Software Engineer",
       "startDate": "Aug 2016",
       "endDate": "Jun 2017",
-      "company": "Bukalapak"
+      "highlights": [
+        "Contributing in main Bukalapak's repository, including feature request and A/B test implementation."
+      ]
     }
   ],
   "skills": [
     {
+      "name": "Programming Languages",
       "keywords": [
         "Python",
         "Go",
         "Scala",
         "Javascript",
         "C++"
-      ],
-      "name": "Programming Languages"
+      ]
     }
   ],
   "projects": [
     {
       "name": "Quranize",
+      "description": "Quranize transforms transliteration into its arabic form using fast and efficient algorithm: suffix-tree for indexing and dynamic programming for parsing.",
+      "url": "https://github.com/alpancs/quranize-service",
       "keywords": [
         "Go",
         "HTML",
         "Javascript"
-      ],
-      "description": "Quranize transforms transliteration into its arabic form using fast and efficient algorithm: suffix-tree for indexing and dynamic programming for parsing.",
-      "url": "https://github.com/alpancs/quranize-service"
+      ]
     },
     {
-      "keywords": [
-        "Javascript"
-      ],
       "name": "Tebakgender",
       "description": "Predicting gender based on name.",
-      "url": "https://github.com/alpancs/tebakgender"
+      "url": "https://github.com/alpancs/tebakgender",
+      "keywords": [
+        "Javascript"
+      ]
     },
     {
+      "name": "Sudoku",
+      "description": "Web service to solve Sudoku.",
+      "url": "https://github.com/alpancs/sudoku",
       "keywords": [
         "Python",
         "HTML",
         "Go",
         "Javascript"
-      ],
-      "description": "Web service to solve Sudoku.",
-      "name": "Sudoku",
-      "url": "https://github.com/alpancs/sudoku"
+      ]
     }
   ],
   "awards": [
