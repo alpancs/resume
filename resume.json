@@ -50,7 +50,7 @@
       "endDate": "Dec 2017",
       "highlights": [
         "Streaming the entire services' database change logs to build a data warehouse that can be used for batch processing analytics.",
-        "Building centralized tracking service for all Bukalapak's platform."
+        "Building centralized tracking service for all Bukalapak's platforms."
       ]
     },
     {
@@ -60,7 +60,7 @@
       "startDate": "Aug 2016",
       "endDate": "Jun 2017",
       "highlights": [
-        "Contributing in main Bukalapak's repository, including feature request and A/B test implementation."
+        "Contributing in main Bukalapak's repository, including feature requests and A/B test implementations."
       ]
     }
   ],
