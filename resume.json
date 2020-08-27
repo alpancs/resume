@@ -1,0 +1,130 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Alfan Nur Fauzan",
+    "email": "alpancs@gmail.com",
+    "phone": "082327244838",
+    "location": {
+      "address": "Yogyakarta, Indonesia"
+    },
+    "website": "https://www.linkedin.com/in/alfan-nur-fauzan"
+  },
+  "education": [
+    {
+      "institution": "University of Indonesia",
+      "location": "Depok, Indonesia",
+      "gpa": "3.57",
+      "studyType": "Bachelor",
+      "startDate": "Aug 2012",
+      "endDate": "Jul 2016",
+      "area": "Computer Science"
+    }
+  ],
+  "work": [
+    {
+      "company": "Bukalapak",
+      "position": "Senior AI Software Engineer",
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Empowering machine learning model development from research into production by introducing MLOps.",
+        "Providing research environment for machine learning development.",
+        "Productionization machine learning models from research environment."
+      ],
+      "location": "Jakarta, Indonesia",
+      "startDate": "Jan 2018"
+    },
+    {
+      "highlights": [
+        "Streaming the entire company's database change logs to build a data warehouse that can be used for batch processing analytics.",
+        "Building centralized tracking service for all Bukalapak's platform."
+      ],
+      "company": "Bukalapak",
+      "position": "Data Engineer",
+      "location": "Jakarta, Indonesia",
+      "startDate": "Jul 2017",
+      "endDate": "Dec 2017"
+    },
+    {
+      "highlights": [
+        "Contributing in main Bukalapak's repository, including feature request and A/B test implementation."
+      ],
+      "position": "Back End Software Engineer",
+      "location": "Jakarta, Indonesia",
+      "startDate": "Aug 2016",
+      "endDate": "Jun 2017",
+      "company": "Bukalapak"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Go",
+        "Scala",
+        "Javascript",
+        "C++"
+      ],
+      "name": "Programming Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quranize",
+      "keywords": [
+        "Go",
+        "HTML",
+        "Javascript"
+      ],
+      "description": "Quranize transforms transliteration into its arabic form using fast and efficient algorithm: suffix-tree for indexing and dynamic programming for parsing.",
+      "url": "https://github.com/alpancs/quranize-service"
+    },
+    {
+      "keywords": [
+        "Javascript"
+      ],
+      "name": "Tebakgender",
+      "description": "Predicting gender based on name.",
+      "url": "https://github.com/alpancs/tebakgender"
+    },
+    {
+      "keywords": [
+        "Python",
+        "HTML",
+        "Go",
+        "Javascript"
+      ],
+      "description": "Web service to solve Sudoku.",
+      "name": "Sudoku",
+      "url": "https://github.com/alpancs/sudoku"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top Performer Software Engineer",
+      "date": "Sep 2019",
+      "awarder": "SVP Technology at Bukalapak",
+      "summary": "Top performer among Software Engineers in Bukalapak AI Research division."
+    },
+    {
+      "title": "ACM-ICPC Finalist",
+      "date": "Aug 2015",
+      "awarder": "Bina Nusantara University",
+      "summary": "Top 50 in ACM-ICPC Asia Jakarta Regional Contest."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
