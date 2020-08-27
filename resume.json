@@ -80,9 +80,7 @@
       "keywords": [
         "Machine Learning",
         "Scalable Microservice",
-        "CI/CD and continuous training (CT)",
-        "Data Pipeline",
-        "Distributed Computing"
+        "CI/CD and Continuous Training"
       ]
     },
     {
@@ -92,10 +90,7 @@
         "MLflow",
         "GitLab Pipeline",
         "Kubernetes",
-        "Airflow",
-        "Spark",
-        "Cassandra",
-        "Kafka"
+        "Spark"
       ]
     }
   ],
