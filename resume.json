@@ -49,7 +49,7 @@
       "startDate": "Jul 2017",
       "endDate": "Dec 2017",
       "highlights": [
-        "Streaming the entire company's database change logs to build a data warehouse that can be used for batch processing analytics.",
+        "Streaming the entire services' database change logs to build a data warehouse that can be used for batch processing analytics.",
         "Building centralized tracking service for all Bukalapak's platform."
       ]
     },
