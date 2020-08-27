@@ -29,7 +29,7 @@
       "endDate": "Present",
       "highlights": [
         "Empowering machine learning model development workflow from research into production by introducing MLOps.",
-        "Providing research environment for machine learning development."
+        "Providing research environment for AI research division developing machine learning models."
       ]
     },
     {
@@ -39,7 +39,7 @@
       "startDate": "Jan 2018",
       "endDate": "Dec 2019",
       "highlights": [
-        "Productionization machine learning models from binary files in research environment into scalable microservices."
+        "Productionization machine learning models from binary files on research environment into scalable microservices on kubernetes."
       ]
     },
     {
