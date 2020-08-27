@@ -24,7 +24,6 @@
     {
       "company": "Bukalapak",
       "position": "Senior AI Software Engineer",
-      "website": "",
       "endDate": "Present",
       "highlights": [
         "Empowering machine learning model development from research into production by introducing MLOps.",
@@ -58,7 +57,6 @@
   ],
   "skills": [
     {
-      "level": "",
       "keywords": [
         "Python",
         "Go",
