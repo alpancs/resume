@@ -38,7 +38,7 @@
       "startDate": "Jan 2020",
       "endDate": "Dec 2020",
       "highlights": [
-        "Empowering machine learning model development workflow from research into production by introducing MLOps.",
+        "Scaling up machine learning model development workflow from research into production by introducing MLOps.",
         "Providing research environment for AI research division developing machine learning models."
       ]
     },
@@ -49,8 +49,8 @@
       "startDate": "Jan 2018",
       "endDate": "Dec 2019",
       "highlights": [
-        "Productionization machine learning models from binary files on research environment into scalable microservices on kubernetes.",
-        "Developing data pipelines that process over 1.5 TB data daily to build recommendations for Bukalapak's products."
+        "Productionization of machine learning models from binary files on research environment into scalable microservices on Kubernetes.",
+        "Developing data pipelines that process over 1.5 TB of data daily to build recommendations for Bukalapak's products."
       ]
     },
     {
@@ -60,8 +60,8 @@
       "startDate": "Jul 2017",
       "endDate": "Dec 2017",
       "highlights": [
-        "Streaming the entire services' database change logs to build a data warehouse that can be used for batch processing analytics.",
-        "Building centralized tracking service for all Bukalapak's platforms, including end users and microservices."
+        "Streaming the entire services' database changelogs to build a data warehouse that can be used for batch processing analytics.",
+        "Building centralized tracking service for all Bukalapak's platforms, including end-users and microservices."
       ]
     },
     {
@@ -71,7 +71,7 @@
       "startDate": "Aug 2016",
       "endDate": "Jun 2017",
       "highlights": [
-        "Contributing in main Bukalapak's repository, including feature requests and A/B test implementations."
+        "Contributing to main Bukalapak's repository, including feature requests and A/B test implementations."
       ]
     }
   ],
