@@ -22,11 +22,21 @@
   ],
   "work": [
     {
+      "company": "Xendit",
+      "location": "Jakarta, Indonesia",
+      "position": "Software Engineer",
+      "startDate": "Jan 2021",
+      "endDate": "Present",
+      "highlights": [
+        "Working in fraud team to minimize fraud cases in payment, while maintaining the acceptance rate."
+      ]
+    },
+    {
       "company": "Bukalapak",
       "location": "Jakarta, Indonesia",
       "position": "Senior AI Software Engineer",
       "startDate": "Jan 2020",
-      "endDate": "Present",
+      "endDate": "Dec 2020",
       "highlights": [
         "Empowering machine learning model development workflow from research into production by introducing MLOps.",
         "Providing research environment for AI research division developing machine learning models."
@@ -39,7 +49,8 @@
       "startDate": "Jan 2018",
       "endDate": "Dec 2019",
       "highlights": [
-        "Productionization machine learning models from binary files on research environment into scalable microservices on kubernetes."
+        "Productionization machine learning models from binary files on research environment into scalable microservices on kubernetes.",
+        "Developing data pipelines that process over 1.5 TB data daily to build recommendations for Bukalapak's products."
       ]
     },
     {
@@ -50,7 +61,7 @@
       "endDate": "Dec 2017",
       "highlights": [
         "Streaming the entire services' database change logs to build a data warehouse that can be used for batch processing analytics.",
-        "Building centralized tracking service for all Bukalapak's platforms."
+        "Building centralized tracking service for all Bukalapak's platforms, including end users and microservices."
       ]
     },
     {
@@ -69,28 +80,33 @@
       "name": "Programming Languages",
       "keywords": [
         "Python",
-        "Go",
         "Scala",
-        "Javascript",
-        "C++"
+        "Go",
+        "Javascript"
       ]
     },
     {
       "name": "Concepts",
       "keywords": [
+        "Data Engineering",
         "Machine Learning",
-        "Microservice",
-        "CI/CD and Continuous Training (CT)"
+        "Recommender System",
+        "Natural Language Processing",
+        "MLOps",
+        "CI/CD and Continuous Training (CT)",
+        "Microservice"
       ]
     },
     {
       "name": "Stacks",
       "keywords": [
-        "Google Cloud Platform",
+        "Spark",
+        "Kafka",
+        "Airflow",
         "MLflow",
         "GitLab Pipeline",
         "Kubernetes",
-        "Spark"
+        "Google Cloud Platform"
       ]
     }
   ],
@@ -143,9 +159,9 @@
     "templates",
     "profile",
     "work",
+    "skills",
     "awards",
-    "education",
     "projects",
-    "skills"
+    "education"
   ]
 }
