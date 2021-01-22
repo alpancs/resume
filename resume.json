@@ -89,11 +89,10 @@
       "name": "Concepts",
       "keywords": [
         "Data Engineering",
-        "Machine Learning",
+        "AI/ML",
         "Recommender System",
-        "Natural Language Processing",
+        "NLP",
         "MLOps",
-        "CI/CD and Continuous Training (CT)",
         "Microservice"
       ]
     },
@@ -106,7 +105,7 @@
         "MLflow",
         "GitLab Pipeline",
         "Kubernetes",
-        "Google Cloud Platform"
+        "GCP"
       ]
     }
   ],
