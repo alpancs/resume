@@ -78,12 +78,15 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Prog. Languages",
       "keywords": [
         "Python",
         "Scala",
         "Go",
-        "Javascript"
+        "Javascript",
+        "C++",
+        "Ruby",
+        "PHP"
       ]
     },
     {
@@ -91,9 +94,9 @@
       "keywords": [
         "Data Engineering",
         "AI/ML",
+        "MLOps",
         "Recommender System",
         "NLP",
-        "MLOps",
         "Microservice"
       ]
     },
@@ -102,11 +105,13 @@
       "keywords": [
         "Spark",
         "Kafka",
+        "Ksqldb",
         "Airflow",
         "MLflow",
-        "GitLab Pipeline",
+        "GitLab CI/CD",
         "Kubernetes",
-        "GCP"
+        "GCP",
+        "Hadoop"
       ]
     }
   ],
