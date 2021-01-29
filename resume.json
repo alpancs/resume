@@ -81,8 +81,8 @@
       "name": "Prog. Languages",
       "keywords": [
         "Python",
-        "Scala",
         "Go",
+        "Scala",
         "Javascript",
         "C++",
         "Ruby",
@@ -92,9 +92,9 @@
     {
       "name": "Concepts",
       "keywords": [
-        "Data Engineering",
         "AI/ML",
         "MLOps",
+        "Data Engineering",
         "Recommender System",
         "NLP",
         "Microservice"
