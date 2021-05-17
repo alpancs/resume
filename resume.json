@@ -22,11 +22,22 @@
   ],
   "work": [
     {
+      "company": "Telkom",
+      "location": "Remote",
+      "position": "Software Engineer",
+      "startDate": "Mar 2021",
+      "endDate": "Present",
+      "highlights": [
+        "Building data warehouse.",
+        "Working with data scientists to provide data infrastructure as a service."
+      ]
+    },
+    {
       "company": "Xendit",
       "location": "Remote",
       "position": "Software Engineer",
       "startDate": "Jan 2021",
-      "endDate": "Present",
+      "endDate": "Feb 2021",
       "highlights": [
         "Building real-time data aggregation as features for internal fraud detection system.",
         "Working in fraud team to minimize fraud cases in payment while maintaining the acceptance rate."
